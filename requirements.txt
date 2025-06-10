@@ -1,0 +1,17 @@
+# Core
+flask==2.3.3
+flask-cors==4.0.0
+
+# ML / Data
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Real-time simulation / streaming
+requests==2.31.0
+
+# Alerting
+python-dotenv==1.0.1
+
+# Utilities
+tqdm==4.66.2
